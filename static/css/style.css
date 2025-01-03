@@ -1,0 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand:400,300);
+
+.carousel-item img {
+    max-height: 400px; /* Limita a altura máxima */
+    width: auto; /* Ajusta a largura para manter a proporção */
+    margin: auto; /* Centraliza no espaço disponível */
+  }
