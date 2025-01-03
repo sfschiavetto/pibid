@@ -5,3 +5,10 @@
     width: auto; /* Ajusta a largura para manter a proporção */
     margin: auto; /* Centraliza no espaço disponível */
   }
+
+.custom-container{
+  max-height: 100px; /* Limita a altura máxima */
+  width: auto; /* Ajusta a largura para manter a proporção */
+  margin: auto; /* Centraliza no espaço disponível */
+ 
+}
